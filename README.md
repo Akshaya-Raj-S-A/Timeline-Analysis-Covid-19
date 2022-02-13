@@ -1,11 +1,8 @@
-# TSP-GRIP-Data-Science-TASK-8-
-
 # Timeline Analysis : Covid-19
 
 # (Level - Advanced)
 
-● Create a storyboard showing spread of Covid-19 cases in your country or
-any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
+● Create a storyboard showing spread of Covid-19 cases using Tableau.
 
 ● Use animation, timeline and annotations to create attractive and interactive
 dashboards and story
